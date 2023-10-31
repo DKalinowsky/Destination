@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.AssemblyInfo.cs
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\Marekv2\bin\Debug\netcoreapp3.1\Marekv2.exe
+C:\Users\dkali\source\repos\Marekv2\bin\Debug\netcoreapp3.1\Marekv2.deps.json
+C:\Users\dkali\source\repos\Marekv2\bin\Debug\netcoreapp3.1\Marekv2.runtimeconfig.json
+C:\Users\dkali\source\repos\Marekv2\bin\Debug\netcoreapp3.1\Marekv2.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\Marekv2\bin\Debug\netcoreapp3.1\Marekv2.dll
+C:\Users\dkali\source\repos\Marekv2\bin\Debug\netcoreapp3.1\Marekv2.pdb
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.dll
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.pdb
+C:\Users\dkali\source\repos\Marekv2\obj\Debug\netcoreapp3.1\Marekv2.genruntimeconfig.cache
